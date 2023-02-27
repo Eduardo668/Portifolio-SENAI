@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const Api = axios.create({
-    baseURL: "https://portifolio-senai-api.fly.dev/api"
+    baseURL: "https://portifoliosenai-api.onrender.com/api"
 })
